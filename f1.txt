@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 hhh
 
-dev1 changes
-h
+dev1 changes made
+=======
+hhhh
+
+changes made
+>>>>>>> dacea0294d44f2553be6bd376e4cf4cf2f3b7a9e
